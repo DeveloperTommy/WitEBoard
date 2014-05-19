@@ -1,0 +1,13 @@
+raspberry pi login stuff
+------------------------
+SSH
+---
+hostname: witeboard.local
+port: 22
+username: pi
+password: witeboard
+
+VNC
+---
+???
+
